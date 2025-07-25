@@ -153,7 +153,7 @@ A thoughtful, insightful professional with expertise in human behavior and emoti
 
 ```
 Input: "Hello, hello, can you hear me?"
-Response: "Hello, Patient. I can hear you. How are you feeling today?"
+Response: "Hello, Sir. I can hear you. How are you feeling today?"
 ```
 
 ## Error Handling
